@@ -1,0 +1,7 @@
+| Field Name   | Data Type | Description                      |
+|--------------|-----------|----------------------------------|
+| RedFighter   | Text      | Name of red corner fighter       |
+| BlueFighter  | Text      | Name of blue corner fighter      |
+| RedOdds      | Numeric   | Red fighter betting odds         |
+| BlueOdds     | Numeric   | Blue fighter betting odds        |
+| RedHeight    | Numeric   | Height of red fighter (in inches)|      |
